@@ -6,8 +6,17 @@ RUN apt-get update \
   && docker-php-ext-install gd
 RUN apt-get install -y libicu-dev
 RUN pecl install intl
+RUN apt-get install -y libz-dev libmemcached-dev && \
+    pecl install memcached && \
+    docker-php-ext-enable memcached
 
 RUN apt-get install -y git zip unzip
 
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin/ --filename=composer
 RUN composer global require "fxp/composer-asset-plugin:^1.2.0"
+
+
+RUN echo "date.timezone = Europe/Kiev" > $PHP_INI_DIR/conf.d/php.ini
+
+ENV TZ=Europe/Kiev
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
