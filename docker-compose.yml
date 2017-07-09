@@ -11,7 +11,7 @@ nginx:
   restart: always
   image: nginx
   ports:
-    - "8099:80"
+    - "99:80"
   links:
     - phpfpm:phpfpm
   volumes:
