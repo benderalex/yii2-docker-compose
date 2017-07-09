@@ -1,6 +1,0 @@
-172.17.0.1 - - [09/Jul/2017:16:53:58 +0000] "GET / HTTP/1.1" 404 571 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-172.17.0.1 - - [09/Jul/2017:16:53:58 +0000] "GET /favicon.ico HTTP/1.1" 404 571 "http://localhost:99/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-172.17.0.1 - - [09/Jul/2017:18:07:13 +0000] "GET / HTTP/1.1" 404 571 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-172.17.0.1 - - [09/Jul/2017:18:07:30 +0000] "GET / HTTP/1.1" 404 571 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-172.17.0.1 - - [09/Jul/2017:18:07:31 +0000] "GET / HTTP/1.1" 404 571 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
-172.17.0.1 - - [09/Jul/2017:18:07:31 +0000] "GET / HTTP/1.1" 404 571 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
