@@ -5,7 +5,6 @@ RUN apt-get update \
   && docker-php-ext-configure gd --enable-gd-native-ttf --with-jpeg-dir=/usr/lib/x86_64-linux-gnu --with-png-dir=/usr/lib/x86_64-linux-gnu --with-freetype-dir=/usr/lib/x86_64-linux-gnu \
   && docker-php-ext-install gd
 RUN apt-get install -y libicu-dev
-RUN pecl install intl
 RUN apt-get install -y libz-dev libmemcached-dev && \
     pecl install memcached && \
     docker-php-ext-enable memcached
