@@ -2,269 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec5f313e-b2f3-44cf-b647-d164829adb0f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Vagrantfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/config/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_data/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_data/login_data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_support/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_support/FunctionalTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/_support/UnitTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/functional/LoginCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/tests/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/web/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/web/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/web/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/backend/web/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/config/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/fixtures/UserFixture.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/mail/layouts/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/mail/layouts/text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/mail/passwordResetToken-html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/mail/passwordResetToken-text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/models/LoginForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/models/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/_data/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/_support/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/_support/UnitTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/tests/unit/models/LoginFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/common/widgets/Alert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/migrations/m130524_201442_init.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/console/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-es/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/images/tests.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/start-testing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-fr/topic-shared-hosting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/images/tests.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/start-testing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-ja/topic-shared-hosting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/images/tests.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/start-testing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pl/topic-shared-hosting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-pt-BR/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/images/tests.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/start-testing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide-zh-CN/topic-shared-hosting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/images/advanced-app-configs.graphml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/images/advanced-app-configs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/images/tests.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/start-comparison.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/start-composer.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/start-installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/start-testing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/structure-applications.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/structure-directories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/structure-environments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/structure-path-aliases.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/topic-adding-more-apps.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/topic-link-backend-frontend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/docs/guide/topic-shared-hosting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/config/test-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/web/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/backend/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/common/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/common/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/common/config/test-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/console/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/console/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/config/test-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/web/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/frontend/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/yii_test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/dev/yii_test.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/backend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/backend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/backend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/backend/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/common/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/common/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/console/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/console/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/frontend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/frontend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/frontend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/frontend/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/environments/prod/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/config/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/models/ContactForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/models/PasswordResetRequestForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/models/ResetPasswordForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/models/SignupForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_data/login_data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_data/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_support/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_support/FunctionalTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/_support/UnitTester.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/acceptance.suite.yml.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/acceptance/HomeCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/acceptance/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/AboutCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/ContactCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/HomeCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/LoginCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/SignupCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit/models/ContactFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit/models/PasswordResetRequestFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit/models/ResetPasswordFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/tests/unit/models/SignupFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/about.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/requestPasswordResetToken.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/resetPassword.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/views/site/signup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/web/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/web/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/web/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/frontend/web/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/init" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/init.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/requirements.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/config/vagrant-local.example.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/nginx/app.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/nginx/log/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/provision/always-as-root.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/provision/once-as-root.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vagrant/provision/once-as-vagrant.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/yii.bat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker-compose.yml" afterPath="$PROJECT_DIR$/docker-compose.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -279,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <first_editor relative-caret-position="360">
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -299,6 +38,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DIRECTORY STRUCTURE</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -368,6 +112,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yii2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -391,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511875696345</updated>
-      <workItem from="1511875697557" duration="2516000" />
+      <workItem from="1511875697557" duration="2949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2516000" />
+    <option name="totallyTimeSpent" value="2949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="-4" width="1879" height="1084" extended-state="6" />
@@ -452,8 +197,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
