@@ -1,7 +1,6 @@
 # PHP
 phpfpm:
-  build: .
-  restart: always
+  image: benderalex/phpfpm-yii2
   links:
     - db:db
   volumes:
@@ -11,7 +10,7 @@ nginx:
   restart: always
   image: nginx
   ports:
-    - "99:80"
+    - "299:80"
   links:
     - phpfpm:phpfpm
   volumes:

@@ -1,18 +1,23 @@
 # yii2-docker-compose
 Yii2 advanced in docker-compose
 
-1) clone repository
-clone repository git clone https://github.com/benderalex/yii2-docker-compose.git
+Clone repository
+ 
+`git clone https://github.com/benderalex/yii2-docker-compose.git`
 
-2) run docker-compose
-docker-compose up -d
+Run
 
-3) install yii2 with composer
-docker-compose run phpfpm composer install
+`docker-compose up -d`
 
-4) init yii2
-docker-compose run phpfpm ./init
+Install Yii2
 
-5) go to site
-go to http://localhost:99
+`docker-compose run phpfpm composer create-project --prefer-dist yiisoft/yii2-app-advanced .`
+
+
+Init yii2
+
+`docker-compose run phpfpm ./init`
+
+
+`go to http://localhost:299`
 
