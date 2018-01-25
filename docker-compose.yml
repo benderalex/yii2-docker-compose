@@ -5,6 +5,7 @@ phpfpm:
     - db:db
   volumes:
     - ./app:/var/www/html
+    - ./root/run.sh:/run.sh
 # NGINX
 nginx:
   restart: always
