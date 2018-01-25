@@ -5,13 +5,13 @@ phpfpm:
     - db:db
   volumes:
     - ./app:/var/www/html
-    - ./root/run.sh:/run.sh
+    - /run.sh:./root/run.sh
 # NGINX
 nginx:
   restart: always
   image: nginx
   ports:
-    - "299:80"
+    - "199:80"
   links:
     - phpfpm:phpfpm
   volumes:
